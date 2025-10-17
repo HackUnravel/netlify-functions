@@ -1,7 +1,7 @@
 {
   "name": "hello-world-netlify",
   "version": "1.0.0",
-  "description": "A simple Hello World Netlify Function",
+  "description": "A simple Hello World Netlify Function.",
   "main": "index.js",
   "scripts": {
     "start": "netlify dev"
